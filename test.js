@@ -31,7 +31,7 @@ if (cluster.isMaster) {
      * HTTP => 80
      * HTTPS => 443
      */
-    const TARGET_HOST = 'eu26.tkcdns.com'
+    const TARGET_HOST = 'club-csgo.ru'
 
     /**
      * Proxy configuration
