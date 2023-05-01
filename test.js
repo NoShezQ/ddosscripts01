@@ -24,7 +24,7 @@ if (cluster.isMaster) {
     /**
      * A URL without the path.
      */
-    const TARGET_AUTHOTIRY = 'https://eu26.tkcdns.com'
+    const TARGET_AUTHOTIRY = 'http://club-csgo.ru/'
 
     /**
      * You should use the host with the port equivalent to the protocol
